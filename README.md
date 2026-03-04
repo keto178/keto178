@@ -14,7 +14,7 @@
 - 📖 I am currently learning more about **TypeScript** and **Node.js**
 - 👯 Always open to connect and share knowledge!
 - ⚡ Fun fact: I love experimenting with new UI/UX design concepts and frameworks!
----
+
 ### 🛠️ **Tech Toolbox**:
 
 <p align="center">
@@ -30,7 +30,7 @@
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
 </p>
 
-
+---
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width='25' /> My Github Stats:
 ![Kerolos' github streak](https://streak-stats.demolab.com?user=keroloseid&theme=dark&mode=weekly)
 
